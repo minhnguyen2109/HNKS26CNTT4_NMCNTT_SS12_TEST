@@ -1,0 +1,2 @@
+ === TONG HOP LOG ===
+PS C:\Users\Admin\Downloads\CNTT4_K26\KI1\OnTap\demo-on-tap\cafe-website> select-string "WARNING"  logs/server.log
